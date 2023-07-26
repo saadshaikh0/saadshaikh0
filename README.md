@@ -20,7 +20,7 @@
 - 🚀 I’m currently working as a Full Stack Developer on contract.
 - 💬 Ask me about **React, Javascript and Calisthenics**
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-saad-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-shaikh-8a40981b6/)](https://www.linkedin.com/in/saad-shaikh-8a40981b6/)[![Gmail Badge](https://img.shields.io/badge/-iamsaadtshaikh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
-- 🌐 [Portfolio Website](www.saadshaikhui.com)
+- 🌐 [Portfolio Website](https://www.saadshaikhui.com)
 
 
 <h2>🚀 Some Tools I Use</h2>
