@@ -45,6 +45,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
 
+### Pinned Repositories
+
+| Repository Name | Description |
+| --------------- | ----------- |
+| [MyPortfolio](https://github.com/saadshaikh0/MyPortfolio) | This website showcases my experience, skills, and provides contact information.|
+
 Thank you for visiting my profile! Have a great day! 👍
 
 ---
