@@ -1,63 +1,49 @@
 <!-- Header Section -->
-<p align="center">
-  <img src="https://yourdomain.com/banner.jpg" alt="Banner Image">
-</p>
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Saad</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+</div>
 
-<h1 align="center">👋 Hello there, I'm Your Name!</h1>
-<p align="center">
-  A passionate developer and lifelong learner.
-</p>
+
+
+
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Saad Shaikh | 💻 Full Stack Developer | 🛸 Pune, India  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 <!-- About Me Section -->
 ## About Me
 
-🚀 I'm a software engineer with a keen interest in solving real-world problems through technology. My journey in the world of programming began when I first tinkered with BASIC on my school's ancient computer. Since then, I've come a long way, delving into various programming languages and technologies, constantly expanding my skillset.
+- 🔭 I’m currently working at [Oaktree Capital Mangement](https://www.oaktreecapital.com/) in the Data Architect Team
+- 🚀 I’m currently working as a Full Stack Developer on contract.
+- 💬 Ask me about **React, Javascript and Calisthenics**
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-saad-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saad-shaikh-8a40981b6/)](https://www.linkedin.com/in/saad-shaikh-8a40981b6/)[![Gmail Badge](https://img.shields.io/badge/-iamsaadtshaikh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
+- 🌐 [Portfolio Website](www.saadshaikhui.com)
 
-## Projects
 
-Here are some of the key projects you'll find in this repository:
-
-### 1. Project One
-
-_Description:_ A brief description of your first project, its purpose, and any noteworthy features.
-
-_Tech Stack:_ List the programming languages, frameworks, or tools used in this project.
-
-### 2. Project Two
-
-_Description:_ A brief description of your second project, its purpose, and any noteworthy features.
-
-_Tech Stack:_ List the programming languages, frameworks, or tools used in this project.
-
-### 3. Project Three
-
-_Description:_ A brief description of your third project, its purpose, and any noteworthy features.
-
-_Tech Stack:_ List the programming languages, frameworks, or tools used in this project.
-
-<!-- GitHub Stats and Language Chart Section -->
-## GitHub Activity
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadshaikh0&show_icons=true&hide_title=true&count_private=true&hide=stars,prs,issues,contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadshaikh0&layout=compact&langs_count=4)
-
-<!-- Contributions and Contact Section -->
-## Contributions and Contact
-
-❤️ Open source is an essential part of my journey, and I love contributing back to the community. You'll find some of my contributions to various projects here. If you find any of my work helpful, don't forget to give it a ⭐️!
-
-📫 Feel free to reach out to me via email at [iamsaadtshaikh@gmail.com](mailto:iamsaadtshaikh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/saad-shaikh-8a40981b6/) - let's collaborate and build amazing things together!
-
-<!-- Blog Section -->
-## Blog
-
-📝 I occasionally write about my experiences, insights, and things I've learned in my tech journey. Check out my blog at [yourblog.com](https://www.yourblog.com) for some interesting reads.
-
-<!-- Acknowledgments Section -->
-## Acknowledgments
-
-🙏 Lastly, a big thank you to the open-source community for providing such fantastic tools and libraries. I'm immensely grateful for the inspiration and support I've received from everyone.
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="jest" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="jest" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="jest" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+</p>
 
 Thank you for visiting my profile! Have a great day! 👍
 
